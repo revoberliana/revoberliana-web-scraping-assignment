@@ -8,10 +8,14 @@ tujuan = untuk dapat mendapatkan data raw dari web books yang berisikan (title, 
 proses = 
 instalasi selenium
 **!pip install selenium**
+
 instalasi chrome browser,driver di goole collab
 **!apt-get install -y chromium-browser**
+
 **!apt-get update**
+
 **!apt install chromium-chromedriver**
+
 import modul selenium
 **from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
